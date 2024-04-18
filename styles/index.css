@@ -1,0 +1,122 @@
+/*
+! El diseño de el
+*/
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.subtítulo{
+    margin: 15px;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.img1, .img3 {
+    float: right;
+    margin: 0 0 20px 20px;
+    max-width: 25%;
+    height: auto;
+}
+
+.img2 {
+    float: left;
+    margin: 0 20px 20px 0;
+    max-width: 25%;
+    height: auto;
+}
+
+p:not(.fp) {
+    font-size: 25px;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.img3 {
+    height: 300px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+/*
+todo Este es mi diseño
+
+ul {
+    background-color: darkblue;
+    list-style-type: none;
+    padding: 20px;
+    padding-bottom: 37px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.img1 {
+    height: 200px;
+}
+
+.img1, .img3 {
+    float: left;
+}
+
+.img2 {
+    float: right;
+}
+
+.active {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(18, 103, 146);
+    padding: 20px;
+}
+
+a:hover:not(.active) {
+    background-color: rgb(88, 169, 255);
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 0px;
+}
+
+li:not(:first-child) {
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+li:hover {
+    margin-left: 0;
+}
+
+li:first-child {
+    float: left;
+    text-align: center;
+}
+
+nav {
+    margin-left: -24px;
+    margin-bottom: 100px;
+}
+*/
